@@ -1,8 +1,10 @@
 # Words Related to the Elder Scrolls Series that are indeed Correct
+acro        #--Acrobatics--#
 aetherius
-destr
-ench
-illu
-larm        #--"Light Armor"--#
+destr       #--Destruction--#
+ench        #--Enchanting--#
+illu        #--Illusion--#
+larm        #--Light Armor--#
 Magicka
 mundus
+stea        #--Stealth--#
