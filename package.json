@@ -30,6 +30,7 @@
     "eslint-config-canonical": "^41.0.3",
     "eslint-plugin-canonical": "^4.2.1",
     "semantic-release": "^21.0.2",
+    "semantic-release-npm-github-publish": "^1.5.4",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.0.4"
@@ -50,8 +51,9 @@
   "scripts": {
     "commit": "git cz",
     "dev": "ts-node-dev --exit-child src/index.ts",
-    "precommit": "echo 'Staging all recent changes.' && git add * && echo 'You will now be prompted to commit your changes.'",
-    "release": "semantic-release --no-ci",
+    "postcommit": "git tag 1e-0.0.0-alpha.1 && git push",
+    "precommit": "git add *",
+    "release": "semantic-release --no-ci --dry-run",
     "start": "ts-node src/index.ts"
   },
   "version": "0.0.0-alpha.1"
