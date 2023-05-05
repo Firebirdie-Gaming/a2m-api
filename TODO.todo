@@ -17,8 +17,16 @@ TODOs:
   src/data/core-rulebook:
     All TODOs regarding the `./src/data/core-rulebook` folder.
 
-    ./1e-alpha-0.0.1:
+    ./1e-1.0.0-alpha:
+      Alpha versions of documents. Highly subject to change.
+
       ☐ @high Coninute to copy/adjust format from https://github.com/5e-bits/5e-database/tree/main/src @created(23-05-04 22:22)
       ☐ Create a `"_meta"` field for all files. @low @created(23-05-04 22:24)
+      
+      attributes.json:
+        ☐ Adjust all attribute explainers to reflect core rulebook. @low @created(23-05-05 02:08)
+
+      skills.json:
+        ☐ @high Add **all** skills from the core rulebook. @created(23-05-05 02:06)
 
 Archive:
