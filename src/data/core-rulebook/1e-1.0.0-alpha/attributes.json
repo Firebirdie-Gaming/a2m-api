@@ -1,21 +1,29 @@
 [
   {
-    "basicDesc": "The Health score represents how much HP your character has. It is related to a number of skills.",
+    "basicDesc": "Health is the amount of damage that any person, creature or item can take before dying or breaking. It is equivalent to the hit points (HP) used in other games. The minimum amount of Health you have depends on a number factors such as your character's Lineage, Class, and Life-Path.",
    "fullName": "Health",
    "id": "atr-hea",
    "name": "HEA",
    "skills": [
-     {"skillId": "sk-larm"},
-     {"skillId": "sk-harm"}
+    {"skillId": "sk-endur"},
+    {"skillId": "sk-shem"},
+    {"skillId": "sk-unarm"},
+    {"skillId": "sk-larm"},
+    {"skillId": "sk-harm"}
     ]
   },
   {
-    "basicDesc": "The Magicka score represents how much \"Mana\" or MP your character has. It is related to a number of skills.",
+    "basicDesc": "Magicka is the magical energy that is used to cast spells. It is equivalent to the magic points (MP or mana) used by other RPGs. The minimum amount of Magicka you have depends on your character's Lineage, Class, and Life-Path.",
     "fullName": "Magicka",
     "id": "atr-mag",
     "name": "MAG",
     "skills": [
+      {"skillId": "sk-chron"},
+      {"skillId": "sk-divin"},
       {"skillId": "sk-destr"},
+      {"skillId": "sk-fabr"},
+      {"skillId": "sk-spee"},
+      {"skillId": "sk-alch"},
       {"skillId": "sk-rest"},
       {"skillId": "sk-alter"},
       {"skillId": "sk-illu"},
@@ -25,13 +33,19 @@
     ]
   },
   {
-    "basicDesc": "The Stamina score represents how much Stamina your character has. It is related to a number of skills.",
+    "basicDesc": "Stamina is your character's physical energy, and is used to perform various strenuous activities, in particular Power Attacks, Shield Bashes, and many other feats and actions. If your stamina is completely depleted, you will be unable to perform these strenuous activities. Unlike Magicka, your character can perform any action that has a stamina cost as long as they have at least one point of stamina available. Stamina is comparable to \"Fatigue\" in earlier Elder Scrolls games. The minimum amount of Stamina you have depends on your character's Lineage, Class, and Life-Path. Your Stamina attribute also governs your Carry Weight.",
     "fullName": "Stamina",
     "id": "atr-sta",
     "name": "STA",
     "skills": [
       {"skillId": "sk-stea"},
+      {"skillId": "sk-arch"},
       {"skillId": "sk-acro"},
+      {"skillId": "sk-lsmit"},
+      {"skillId": "sk-hsmit"},
+      {"skillId": "sk-pickp"},
+      {"skillId": "sk-oneh"},
+      {"skillId": "sk-twoh"},
       {"skillId": "sk-lock"}
     ]
   }
