@@ -9,6 +9,7 @@ TODOs:
     ☐ @high Document intended `./src/data` folder layout in `./src/data/README.md` @created(23-05-04 21:44)
       ☐ @high Ensure the "why" is explained for layout @created(23-05-04 21:46)
     ☐ @high Document `./.ref/README.md` for layout of `TODO.todo` @created(23-05-04 22:25)
+      ✔ Create File @created(23-05-05 02:17) @done(23-05-05 02:17)
 
   graphics:
     Specifically regarding any Graphics.
@@ -22,7 +23,7 @@ TODOs:
 
       ☐ @high Coninute to copy/adjust format from https://github.com/5e-bits/5e-database/tree/main/src @created(23-05-04 22:22)
       ☐ Create a `"_meta"` field for all files. @low @created(23-05-04 22:24)
-      
+
       attributes.json:
         ☐ Adjust all attribute explainers to reflect core rulebook. @low @created(23-05-05 02:08)
 
