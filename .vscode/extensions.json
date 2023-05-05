@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "axetroy.vscode-changelog-generator",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "pmneo.tsimporter",
+    "kakumei.ts-debug",
+    "fabiospampinato.vscode-todo-plus",
+    "xshrim.txt-syntax"
+  ]
+}

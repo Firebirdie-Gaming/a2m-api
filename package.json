@@ -1,25 +1,49 @@
 {
-  "name": "a2m-api",
-  "version": "0.0.1-alpha",
-  "description": "Aetherius to Mundus programmatic API.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": {
+    "email": "firebirdie-gaming@toggle.gay",
+    "url": "https://github.com/firebirdie-gaming/a2m-api/issues"
   },
-  "author": "Firebirdie Gaming",
-  "license": "MIT",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "contributors": [
+    {
+      "email": "togg@toggle.gay",
+      "name": "Togg LeTek"
+    },
+    {
+      "email": "firebirdie-gaming@toggle.gay",
+      "name": "Firebirdie Gaming"
+    }
+  ],
+  "description": "Aetherius to Mundus programmatic API.",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "@types/node": "^18.16.3",
     "@typescript-eslint/eslint-plugin": "^5.59.2",
     "@typescript-eslint/parser": "^5.59.2",
+    "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.39.0",
+    "eslint-config-canonical": "^41.0.3",
     "eslint-plugin-canonical": "^4.2.1",
     "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT",
+  "main": "src/index.ts",
+  "name": "@firebirdie-gaming/a2m-api",
+  "scripts": {
+    "commit": "git cz",
+    "dev": "ts-node-dev --exit-child src/index.ts",
+    "precommit": "git add *",
+    "start": "ts-node src/index.ts"
+  },
+  "version": "0.0.1-alpha"
 }

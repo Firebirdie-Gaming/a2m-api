@@ -1,5 +1,7 @@
-# Coding
-# Words that are correct according to Firebirdie Gaming in General
-firebirdie
+#--Coding Related Words--#
 linebreak
+precommit
 Roadmap
+#--Unique Words to Firebirdie Gaming--#
+firebirdie
+Togg

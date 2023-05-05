@@ -1,0 +1,10 @@
+{
+  "basicDesc": "The Health score represents how much HP your character has. It is related to a number of skills.",
+  "fullName": "Health",
+  "id": "atr-hea",
+  "name": "HEA",
+  "skills": [
+    {"skillId": "sk-larm"},
+    {"skillId": "sk-harm"}
+  ]
+}

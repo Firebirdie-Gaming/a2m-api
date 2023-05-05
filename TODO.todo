@@ -1,0 +1,24 @@
+
+TODOs:
+  A general list of TODOs regarding Aetherius to Mundus' API Repo.
+
+  documentation:
+    Specifically regarding any Documentation.
+    ☐ Update `./README.md` with proper documentation @low @created(23-05-04 21:41)
+      ☐ @critical `"Get Started Developing"` section is needed. @created(23-05-04 22:27)
+    ☐ @high Document intended `./src/data` folder layout in `./src/data/README.md` @created(23-05-04 21:44)
+      ☐ @high Ensure the "why" is explained for layout @created(23-05-04 21:46)
+    ☐ @high Document `./.ref/README.md` for layout of `TODO.todo` @created(23-05-04 22:25)
+
+  graphics:
+    Specifically regarding any Graphics.
+    ☐ Create a logo for Aetherius to Mundus API @low @created(23-05-04 21:35)
+
+  src/data/core-rulebook:
+    All TODOs regarding the `./src/data/core-rulebook` folder.
+
+    ./1e-alpha-0.0.1:
+      ☐ @high Coninute to copy/adjust format from https://github.com/5e-bits/5e-database/tree/main/src @created(23-05-04 22:22)
+      ☐ Create a `"_meta"` field for all files. @low @created(23-05-04 22:24)
+
+Archive:

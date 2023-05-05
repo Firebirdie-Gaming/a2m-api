@@ -1,6 +1,8 @@
 {
-    "version": "0.2",
-    "ignorePaths": [],
+    "dictionaries": [
+        "elder-scrolls",
+        "firebirdie"
+    ],
     "dictionaryDefinitions": [
       {
         "name": "elder-scrolls",
@@ -11,12 +13,10 @@
         "path": "./.dict/firebirdie.txt"
       }
     ],
-    "dictionaries": [
-        "elder-scrolls",
-        "firebirdie"
-    ],
-    "words": [],
+    "ignorePaths": [],
     "ignoreWords": [],
     "import": [],
-    "language": "en,lorem"
+    "language": "en,lorem",
+    "version": "0.2",
+    "words": []
 }

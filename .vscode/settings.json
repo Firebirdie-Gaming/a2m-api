@@ -1,7 +1,5 @@
 {
   "license.year": "auto",
   "license.author": "Firebirdie Gaming",
-  "markdownlint.ignore": [
-    "**/.todo/*"
-  ]
+  "prettier.enable": false
 }
