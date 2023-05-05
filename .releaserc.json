@@ -1,6 +1,6 @@
 {
   "branches": ["main", "dev"],
   "repositoryUrl": "https://github.com/Firebirdie-Gaming/a2m-api.git",
-  "tagFormat": "1e-${version}-alpha.1",
+  "tagFormat": "1e-${version}",
   "extends": "semantic-release-npm-github-publish"
 }
