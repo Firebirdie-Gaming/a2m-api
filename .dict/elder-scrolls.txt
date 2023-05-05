@@ -1,10 +1,21 @@
 # Words Related to the Elder Scrolls Series that are indeed Correct
 acro        #--Acrobatics--#
 aetherius
+alch        #--Alchemy--#
 destr       #--Destruction--#
+divin       #--Divine--#
 ench        #--Enchanting--#
+endur       #--Endurence--#
+fabr        #--Fabrication--#
+hsmit       #--Heavy Smithing--#
 illu        #--Illusion--#
 larm        #--Light Armor--#
+lsmit       #--Light Smithing--#
 Magicka
 mundus
+oneh        #--One-Handed--#
+pickp       #--Pickpocket--#
+shem        #--Shield Mastery--#
+spee        #--Speechcraft--#
 stea        #--Stealth--#
+twoh        #--Two-Handed--#

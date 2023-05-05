@@ -1,5 +1,4 @@
-#--Coding Related Words--#
-#--Unique Words to Firebirdie Gaming--#
+#--Coding Related Words & Unique Words to Firebirdie Gaming--#
 firebirdie
 linebreak
 postcommit
