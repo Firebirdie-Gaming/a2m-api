@@ -55,8 +55,7 @@
     "precommit": "git add *",
     "release": "semantic-release --no-ci",
     "release-dry": "semantic-release --no-ci --dry-run",
-    "start": "ts-node src/index.ts",
-    "tag": "git tag 1e-0.0.0-alpha.1"
+    "start": "ts-node src/index.ts"
   },
   "version": "0.0.0-alpha.1"
 }
