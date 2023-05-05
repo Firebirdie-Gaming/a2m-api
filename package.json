@@ -57,5 +57,5 @@
     "release-dry": "semantic-release --no-ci --dry-run",
     "start": "ts-node src/index.ts"
   },
-  "version": "0.0.0-alpha.1"
+  "version": "1.0.0-alpha.1"
 }
