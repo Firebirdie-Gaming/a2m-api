@@ -1,5 +1,8 @@
 # Words Related to the Elder Scrolls Series that are indeed Correct
-
 aetherius
+destr
+ench
+illu
 larm        #--"Light Armor"--#
+Magicka
 mundus

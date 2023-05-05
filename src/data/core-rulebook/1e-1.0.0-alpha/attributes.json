@@ -1,10 +1,38 @@
-{
-  "basicDesc": "The Health score represents how much HP your character has. It is related to a number of skills.",
-  "fullName": "Health",
-  "id": "atr-hea",
-  "name": "HEA",
-  "skills": [
-    {"skillId": "sk-larm"},
-    {"skillId": "sk-harm"}
-  ]
-}
+[
+  {
+    "basicDesc": "The Health score represents how much HP your character has. It is related to a number of skills.",
+   "fullName": "Health",
+   "id": "atr-hea",
+   "name": "HEA",
+   "skills": [
+     {"skillId": "sk-larm"},
+     {"skillId": "sk-harm"}
+    ]
+  },
+  {
+    "basicDesc": "The Magicka score represents how much \"Mana\" or MP your character has. It is related to a number of skills.",
+    "fullName": "Magicka",
+    "id": "atr-mag",
+    "name": "MAG",
+    "skills": [
+      {"skillId": "sk-destr"},
+      {"skillId": "sk-rest"},
+      {"skillId": "sk-alter"},
+      {"skillId": "sk-illu"},
+      {"skillId": "sk-myst"},
+      {"skillId": "sk-conj"},
+      {"skillId": "sk-ench"}
+    ]
+  },
+  {
+    "basicDesc": "The Stamina score represents how much Stamina your character has. It is related to a number of skills.",
+    "fullName": "Stamina",
+    "id": "atr-sta",
+    "name": "STA",
+    "skills": [
+      {"skillId": "sk-stea"},
+      {"skillId": "sk-acro"},
+      {"skillId": "sk-lock"}
+    ]
+  }
+]
