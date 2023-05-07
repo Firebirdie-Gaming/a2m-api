@@ -8,6 +8,9 @@ Words to come...
 
 - Coming Soon :tm:
 
+> **Note**
+> This is a note
+
 ## Roadmap
 
 - Project Creation
@@ -72,8 +75,8 @@ Words to come...
 
 | Item | License |
 |:----:|:-------:|
-| Repo Code | ![GitHub](https://img.shields.io/github/license/firebirdie-gaming/a2m-api?label=License) |
-| Data Files | ![GitHub](https://img.shields.io/github/license/firebirdie-gaming/a2m-api?label=License) |
+| Repo Code | ![MIT License](https://img.shields.io/github/license/firebirdie-gaming/a2m-api?label=License) |
+| Data Files | ![ORC License](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=License&query=%24.custom-badges.additional-licenses%5B%3A0%5D&url=https%3A%2F%2Fraw.githubusercontent.com%2FFirebirdie-Gaming%2Fa2m-api%2Falpha%2F.badge-info%2Fbadges.json) |
 
 [readme-templates]: https://awesomeopensource.com/project/elangosundar/awesome-README-templates
 [awesome-readme]: https://github.com/matiassingers/awesome-readme
