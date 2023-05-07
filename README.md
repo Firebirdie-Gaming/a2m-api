@@ -1,6 +1,6 @@
 # Aetherius to Mundus - API
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![GitHub issues](https://img.shields.io/github/issues-raw/firebirdie-gaming/a2m-api?label=Open%20Issues)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![GitHub issues](https://img.shields.io/github/issues-raw/firebirdie-gaming/a2m-api?label=Open%20Issues) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/firebirdie-gaming/a2m-api?label=version)
 
 Words to come...
 
@@ -76,7 +76,7 @@ Words to come...
 | Item | License |
 |:----:|:-------:|
 | Repo Code | ![MIT License](https://img.shields.io/github/license/firebirdie-gaming/a2m-api?label=License) |
-| Data Files | ![ORC License](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=License&query=%24.custom-badges.additional-licenses%5B%3A0%5D&url=https%3A%2F%2Fraw.githubusercontent.com%2FFirebirdie-Gaming%2Fa2m-api%2Falpha%2F.badge-info%2Fbadges.json) |
+| Data Files | ![ORC License](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FFirebirdie-Gaming%2Fa2m-api%2Falpha%2F.badge-info%2Forc.json) |
 
 [readme-templates]: https://awesomeopensource.com/project/elangosundar/awesome-README-templates
 [awesome-readme]: https://github.com/matiassingers/awesome-readme
